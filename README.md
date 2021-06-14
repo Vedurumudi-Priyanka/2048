@@ -25,3 +25,5 @@
 - setTimeout()
 - clearInterval()
 - setInterval()
+
+Here's the [Site](https://vedurumudi-priyanka.github.io/2048/) to play
